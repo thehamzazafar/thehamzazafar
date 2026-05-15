@@ -53,6 +53,6 @@ I help founders and agencies move from "vibe-coded" prototypes to systems that a
 ---
 
 <p align="center">
-  <img src="https://hamza-readme-stats.vercel.app/api?username=thehamzazafar&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Hamza's GitHub Stats" />
-  <img src="https://hamza-readme-stats.vercel.app/api/top-langs/?username=thehamzazafar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://hamza-readme-stats.vercel.app/api?username=thehamzazafar&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&v=2" alt="Hamza's GitHub Stats" />
+  <img src="https://hamza-readme-stats.vercel.app/api/top-langs/?username=thehamzazafar&layout=compact&theme=dark&hide_border=true&v=2" alt="Top Languages" />
 </p>
